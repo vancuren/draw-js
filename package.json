@@ -1,0 +1,34 @@
+{
+  "name": "@vancuren/draw-js",
+  "version": "1.0.0",
+  "description": "A canvas drawing library for javascript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "typescript": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vancuren/draw-js.git"
+  },
+  "keywords": [
+    "canvas",
+    "drawing",
+    "draw",
+    "polygon",
+    "shapes"
+  ],
+  "author": "Russell Van Curen",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/vancuren/draw-js/issues"
+  },
+  "homepage": "https://github.com/vancuren/draw-js#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ]    
+}
